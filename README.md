@@ -23,8 +23,8 @@ This is my first project. Here is the details how I did it. First I imported goo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MgMyatHtayKhant/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://gilded-tapioca-a465f3.netlify.app/)
+- Solution URL: [Solution URL here](https://github.com/MgMyatHtayKhant/qr-code-component-main)
+- Live Site URL: [Live site URL here](https://gilded-tapioca-a465f3.netlify.app/)
 
 ## My process
 
@@ -61,7 +61,7 @@ body {
 ## Author
 
 - Website - [Saul](https://saul-homepage.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Saul](https://www.frontendmentor.io/profile/MgMyatHtayKhant)
 
 ## Acknowledgments
 
